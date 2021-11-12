@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hryyhrn
+- 👀 I’m an undergrad student, and a beginner wrt coding
+- 💞️ I’m trying to get familiar with the world of Open Source
+- 📫 If you want to reach me, email hariharanmarthandam@gmail.com
