@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hryyhrn
-- 👀 I’m an undergrad student, and a beginner wrt coding
-- 💞️ I’m trying to get familiar with the world of Open Source
+- 👀 I’m an undergrad student, acquainted with Web Development and some random tidbits of the world of code.
+- 💞️ A lot of different interests right now. Planning on creating certain desktop applications. Would love to explore Web Development further!
 - 📫 If you want to reach me, email hariharanmarthandam@gmail.com
